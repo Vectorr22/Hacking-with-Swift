@@ -35,7 +35,13 @@ struct HabitOverview: View {
                 
         }
         .frame(maxWidth: .infinity)
-        .padding()        
+        .padding()
+        .background(
+            RoundedRectangle(cornerRadius: 16)
+                .fill(Color(.systemBackground))
+                .shadow(color: .black.opacity(0.15), radius: 8, x: 0, y: 4)
+        )
+        .padding(.horizontal)
     }
     
     

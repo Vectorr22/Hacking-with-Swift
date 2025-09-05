@@ -18,11 +18,11 @@ struct ContentView: View {
             ZStack(alignment: .bottomTrailing){
                 ScrollView{
                     LazyVStack(content: {
-                        ForEach(habits.listOfHabits.indices) { index in
+                        ForEach($habits.listOfHabits) { $habit in
                             NavigationLink(
-                                destination: HabitDetailView(habit: $habits.listOfHabits[index], habits: habits)
+                                destination: HabitDetailView(habit: $habit, habits: habits)
                             ){
-                                HabitOverview(habit: habits.listOfHabits[index])
+                                HabitOverview(habit: habit)
                             }.buttonStyle(.plain)
                         }
                     }
