@@ -20,13 +20,11 @@ The program combines daily theory, challenges, and real apps to provide hands-on
 
 ---
 
-## 🖼️ Sample Projects (placeholders)
+## 🖼️ Projects
 
-| Project | Screenshot |
-|---|---|
-| WeSplit | ![WeSplit](WeSplit.png) |
-| iExpense | ![iExpense](iExpense.png) |
-| Moonshot | ![Moonshot](Moonshot1.png) |
+| WeSplit | iExpense | Moonshot |
+|---|---|---|
+| <img src="WeSplit.png" alt="WeSplit" width="200"/> | <img src="iExpense.png" alt="iExpense" width="200"/> | <img src="Moonshot1.png" alt="Moonshot" width="200"/> |
 
 ---
 
