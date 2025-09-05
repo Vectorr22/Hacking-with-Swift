@@ -24,9 +24,9 @@ The program combines daily theory, challenges, and real apps to provide hands-on
 
 | Project | Screenshot |
 |---|---|
-| WeSplit | ![WeSplit](images/WeSplit.png) |
-| iExpense | ![iExpense](images/iExpense.png) |
-| Moonshot | ![Moonshot](images/Moonshot1.png) |
+| WeSplit | ![WeSplit](WeSplit.png) |
+| iExpense | ![iExpense](iExpense.png) |
+| Moonshot | ![Moonshot](Moonshot1.png) |
 
 ---
 
