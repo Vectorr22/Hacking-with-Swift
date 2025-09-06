@@ -24,7 +24,7 @@ The program combines daily theory, challenges, and real apps to provide hands-on
 
 | WeSplit | iExpense | Moonshot | HabitTracker | 
 |---|---|---|---|
-| <img src="WeSplit.png" alt="WeSplit" width="200"/> | <img src="iExpense.png" alt="iExpense" width="200"/> | <img src="Moonshot1.png" alt="Moonshot" width="200"/> | <img src="Moonshot1.png" alt="HabitTracker.png" width="200"/>
+| <img src="WeSplit.png" alt="WeSplit" width="200"/> | <img src="iExpense.png" alt="iExpense" width="200"/> | <img src="Moonshot1.png" alt="Moonshot" width="200"/> | <img src="HabitTracker.png" alt="HabitTracker.png" width="200"/>
 
 ---
 
